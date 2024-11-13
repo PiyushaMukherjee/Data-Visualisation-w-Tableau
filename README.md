@@ -36,4 +36,6 @@ This project involved analyzing warehouse and delivery times. However, due to co
 
 ![{173FA527-31D3-4D08-9359-8C0D45B2E20D}](https://github.com/user-attachments/assets/aed21c21-2d92-42a9-b546-986ebc0cad52)
 ![{01780FCB-D41A-44A8-B17F-FA5BFF0407EE}](https://github.com/user-attachments/assets/fec94ce2-0dbf-4eb5-bae9-7bc7208813e1)
+![{DA413864-9B3B-4997-B486-09AED3DF746C}](https://github.com/user-attachments/assets/5e69327c-a79a-40dd-a6b1-7cdfe07c6e29)
+
 
