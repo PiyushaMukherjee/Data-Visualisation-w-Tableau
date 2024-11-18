@@ -23,7 +23,7 @@ This dashboard presents a detailed analysis of COVID-19 data, focusing on confir
 
 - **Trendline Analysis**: Tracks confirmed cases over time, segmented by year, quarter, and month.
 - **Filter Options**: Allows filtering by country or region.
-- **Metrics**: Displays confirmed cases, deaths, and recovery rates to show the pandemic’s progression.
+- **Metrics**: Displays confirmed cases, deaths, and recovery rates to show the pandemic’s progression..
 
 **Dataset**: [COVID-19 Data on Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 
